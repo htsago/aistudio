@@ -1,0 +1,5 @@
+{
+  "name": "ShopBot AI Shopping Assistant",
+  "description": "A conversational AI shopping assistant powered by Gemini. Search for products, check order statuses, manage your cart, and get recommendations through a sleek chat interface.",
+  "requestFramePermissions": []
+}
